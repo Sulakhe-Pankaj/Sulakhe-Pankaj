@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Pankaj.<br>Engineering student specializing in Artificial Intelligence & Data Science.<br><br>I work on:<br><br>Data Science projects (EDA, ML models, data pipelines)<br><br>Artificial Intelligence (Deep Learning, NLP, Computer Vision)<br><br>Python based development using modern AI/DS libraries<br><br>Tech stack:<br><br>Languages: Python, SQL<br><br>Libraries: Pandas, NumPy, Scikit-learn, TensorFlow/PyTorch, Matplotlib/Seaborn<br><br>Tools: Jupyter Notebook, VS Code, Git/GitHub, Power BI/Tableau (if needed)<br><br>Currently learning:<br><br>Advanced AI concepts<br><br>MLOps basics<br><br>Model optimization & deployment<br><br>I build practical, data driven solutions instead of theory dumping.<br><br>Connect:<br><br>GitHub: Active here<br><br>Location: India
+## 💫 About Me<br><br>Hi, I'm **Panku** (Pankaj).  <br>Engineering student focused on **Artificial Intelligence & Data Science**.<br><br>I build:<br>- **Data Science**: EDA, ML models, pipelines<br>- **AI**: Deep Learning, NLP, Computer Vision<br>- **Code**: Python + DS/AI libraries<br><br>Tech:<br>- **Languages**: Python, SQL<br>- **Core libraries**: Pandas, NumPy, Scikit-learn, TensorFlow/PyTorch, Matplotlib<br><br>Learning now:<br>`AI` `MLOps` `Model Optimization` `Deployment`<br><br>Active on GitHub. Based in India.
 
 
 ## 🌐 Socials:
