@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 💫 About Me<br><br>Hi, I'm **Panku** (Pankaj).  <br>Engineering student focused on **Artificial Intelligence & Data Science**.<br><br>I build:<br>- **Data Science**: EDA, ML models, pipelines<br>- **AI**: Deep Learning, NLP, Computer Vision<br>- **Code**: Python + DS/AI libraries<br><br>Tech:<br>- **Languages**: Python, SQL<br>- **Core libraries**: Pandas, NumPy, Scikit-learn, TensorFlow/PyTorch, Matplotlib<br><br>Learning now:<br>`AI` `MLOps` `Model Optimization` `Deployment`<br><br>Active on GitHub. Based in India.
+Me<br><br>Hi, I'm **Panku** (Pankaj).  <br>Engineering student focused on **Artificial Intelligence & Data Science**.<br><br>I build:<br>- **Data Science**: EDA, ML models, pipelines<br>- **AI**: Deep Learning, NLP, Computer Vision<br>- **Code**: Python + DS/AI libraries<br><br>Tech:<br>- **Languages**: Python, SQL<br>- **Core libraries**: Pandas, NumPy, Scikit-learn, TensorFlow/PyTorch, Matplotlib<br><br>Learning now:<br>`AI` `MLOps` `Model Optimization` `Deployment`<br><br>Active on GitHub. Based in India.
 
 
 ## 🌐 Socials:
