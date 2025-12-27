@@ -1,6 +1,9 @@
 # 💫 About Me:
-<br><br>Hi, I'm **Pankaj Sulakhe**.  <br>Engineering student focused on **Artificial Intelligence & Data Science**.<br><br>I build:<br>- **Data Science**: EDA, ML models, pipelines<br>- **AI**: Deep Learning, NLP, Computer Vision<br>- **Code**: Python + DS/AI libraries<br><br>Tech:<br>- **Languages**: Python, SQL<br>- **Core libraries**: Pandas, NumPy, Scikit-learn, TensorFlow/PyTorch, Matplotlib<br><br>Learning now:<br>`AI` `MLOps` `Model Optimization` `Deployment`<br><br>Active on GitHub. Based in India.
-
+I'm Pankaj Sulakhe, an Engineering student in AI & Data Science.
+I build and deploy ML & Deep Learning models for NLP, Computer Vision, and AI applications.
+I work with Python, SQL, and DS/AI libraries.
+Currently learning MLOps, model optimization, and deployment.
+Active on GitHub. Based in India.
 
 ## 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/‪pankaj-sulakhe.bsky.social‬) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/mQKSUZpn) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.linkedin.com/in/pankaj-sulakhe-795516285/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pankaj-sulakhe-795516285/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pankajsulakhe76@gmail.com) 
