@@ -3,25 +3,37 @@
 ❖ I build and deploy ML/DL models in NLP and Computer Vision  
 ❖ I work with Python, SQL, Flask, Django, and AI/DS libraries  
 ❖ Currently learning core Data Science concepts  
+<div>
+  
+![Joined GitHub in 2023](https://img.shields.io/badge/Joined-2023-yellow)
+![Public Repos](https://img.shields.io/badge/Public%20Repos-6-yellow)
+<img src="https://komarev.com/ghpvc/?username=Sulakhe-Pankaj&label=Profile%20views&style=flat&color=yellow" />
+
+</div>
+
+<h2 align="center">📌GitHub Stats</h2>
+
+<p align="center">
+  <a href="https://github.com/Sulakhe-Pankaj">
+    <img width="435px" src="https://github-readme-stats.vercel.app/api?username=Sulakhe-Pankaj&show_icons=true&count_private=true&theme=tokyonight"/>
+  </a>
+  <a href="https://github.com/Sulakhe-Pankaj">
+    <img width="390px" src="https://github-readme-streak-stats.herokuapp.com/?user=Sulakhe-Pankaj&theme=tokyonight&hide_border=true"/>
+  </a>
+</p>
 
 ---
+<h2 align="center"> 🔄 Connects With Me</h2>
 
-## 💻 Tech Stack
-<img src="https://skillicons.dev/icons?i=python,django,flask,html,css,js,figma,mysql,mongodb,cpp,github" />
+<p align="center">
+  <a href="https://discord.gg/mQKSUZpn">
+    <img src="https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/pankaj-sulakhe-795516285/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:sulakhepankaj76@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" />
+  </a>
+</p>
 
----
-
-## GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Sulakhe-Pankaj&show_icons=true&theme=graywhite)
-## 👀 Profile Views
-![](https://komarev.com/ghpvc/?username=Sulakhe-Pankaj&label=Views)
-
-## Contribution Graph
-![](https://github-readme-activity-graph.vercel.app/graph?username=Sulakhe-Pankaj&theme=github-compact)
-
----
-
-## 🌐 Connect With Me
-[![Discord](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)](https://discord.gg/mQKSUZpn)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pankaj-sulakhe-795516285/)
-[![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pankajsulakhe76@gmail.com)
