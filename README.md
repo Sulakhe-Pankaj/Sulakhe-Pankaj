@@ -11,18 +11,8 @@
 
 </div>
 
-<h2 align="center">📌GitHub Stats</h2>
-
-<p align="center">
-  <a href="https://github.com/Sulakhe-Pankaj">
-    <img width="435px" src="https://github-readme-stats.vercel.app/api?username=Sulakhe-Pankaj&show_icons=true&count_private=true&theme=tokyonight"/>
-  </a>
-  <a href="https://github.com/Sulakhe-Pankaj">
-    <img width="390px" src="https://github-readme-streak-stats.herokuapp.com/?user=Sulakhe-Pankaj&theme=tokyonight&hide_border=true"/>
-  </a>
-</p>
-
 ---
+
 <h2 align="center"> 🔄 Connects With Me</h2>
 
 <p align="center">
